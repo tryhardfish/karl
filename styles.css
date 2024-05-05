@@ -54,7 +54,7 @@ p {
   width: 100px;
   height: 100px;
   margin: 10px;
-  margin-bottom: -20px;
+  margin-bottom: -80px;
   transition: opacity 0.5s ease-in-out; /* Add transition effect for opacity */
   border: 2px solid #D7A4A3; /* Add border around the images */
 }
